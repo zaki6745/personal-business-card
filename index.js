@@ -7,7 +7,7 @@ const PROFILE = {
   name: "Zaki",
   title: "Web Developer & Designer",
   email: "zakizakioo666@gmail.com",
-  instagram: "_auren_studi.oo",
+  instagram: "za_ki_oo",
   whatsapp: "213773365156",
   x: "za_ki_za_ki_oo",
   // This is a simple contact card file. Add your real phone number if you want it included.
